@@ -34,7 +34,8 @@ It answers key business questions such as **top customers, product revenue, mont
 ---
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](powerbi_dashboard/screenshot.png)
+![Dashboard Screenshot](powerbi_dashboard/<img width="1366" height="685" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/5f708270-fc74-488e-a83b-322fecc08b04" />
+)
 
 ---
 

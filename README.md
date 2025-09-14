@@ -27,7 +27,7 @@ It answers key business questions such as **top customers, product revenue, mont
    - Built interactive dashboards with:  
      - 📌 KPIs  
      - 📈 Monthly Sales Trend  
-     - 📊 Top 10 Customers & Products  
+     - 📊 Top 5 Customers & Products  
      - 🌍 Regional Sales Distribution  
      - 🏷 Product Category Insights  
 
